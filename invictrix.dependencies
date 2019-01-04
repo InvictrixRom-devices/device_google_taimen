@@ -1,0 +1,17 @@
+[
+  {
+    "repository" :  "InvictrixROM-Devices/kernel_google_wahoo",
+    "target_path":  "kernel/google/wahoo",
+    "branch"     :  "inv-9.0"
+  },
+  {
+    "repository" :  "InvictrixROM-Devices/device_google_wahoo",
+    "target_path":  "device/google/wahoo",
+    "branch"     :  "inv-9.0"
+  },
+  {
+    "repository" : "InvictrixROM-Devices/vendor_google",
+    "target_path": "vendor/google",
+    "branch"     : "inv-9.0"
+  }
+]
